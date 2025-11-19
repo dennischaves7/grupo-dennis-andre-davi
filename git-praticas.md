@@ -2,4 +2,4 @@
 
 <h2> O Git é uma ferramenta essencial para qualquer equipe de desenvolvimento, pois permite acompanhar a evolução do código e garantir colaboração eficiente. Para manter um histórico útil, é fundamental criar commits pequenos, focados e com mensagens descritivas. Mensagens claras facilitam o entendimento do que foi alterado e por quê, ajudando tanto no presente quanto em futuras manutenções. Além disso, seguir uma convenção de nomenclatura consistente torna o repositório mais legível e organizado, reduzindo retrabalho e falhas. </h2>
 
-
+<h2> Uma das principais forças do Git é seu sistema de ramificações (branches). Trabalhar com uma estratégia bem definida — como Git Flow, GitHub Flow ou Trunk-Based Development — aumenta a previsibilidade das entregas e reduz conflitos. Manter a branch principal sempre estável e criar branches específicas para novas funcionalidades, hotfixes e melhorias torna o fluxo mais profissional. Isso facilita o controle de versões e torna o processo de revisão e integração mais seguro e estruturado. </h2>
