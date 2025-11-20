@@ -1,0 +1,18 @@
+<h1> Git e boas praticas de aversamento</h1>
+
+<h2> O Git é uma ferramenta essencial para qualquer equipe de desenvolvimento, pois permite acompanhar a evolução do código e garantir colaboração eficiente. Para manter um histórico útil, é fundamental criar commits pequenos, focados e com mensagens descritivas. Mensagens claras facilitam o entendimento do que foi alterado e por quê, ajudando tanto no presente quanto em futuras manutenções. Além disso, seguir uma convenção de nomenclatura consistente torna o repositório mais legível e organizado, reduzindo retrabalho e falhas. </h2>
+
+<h2> Uma das principais forças do Git é seu sistema de ramificações (branches). Trabalhar com uma estratégia bem definida — como Git Flow, GitHub Flow ou Trunk-Based Development — aumenta a previsibilidade das entregas e reduz conflitos. Manter a branch principal sempre estável e criar branches específicas para novas funcionalidades, hotfixes e melhorias torna o fluxo mais profissional. Isso facilita o controle de versões e torna o processo de revisão e integração mais seguro e estruturado. </h2>
+
+<h2> Versionar bem não é apenas registrar mudanças, mas garantir qualidade no ciclo de desenvolvimento. Fazer uso de pull requests e revisões de código é uma boa prática que melhora a segurança e reduz a chance de bugs irem para produção. Documentar mudanças significativas no README ou no CHANGELOG oferece rastreabilidade e transparência. Além disso, manter uma política de commits padronizada, como Conventional Commits, ajuda na automação e na geração de versões sem esforço. </h2>
+
+<ul>
+
+<li>Chacon, S. & Straub, B. Pro Git. Apress, 2014. </li>
+
+<li> Documentação oficial do Git: https://git-scm.com/doc </li>
+
+<li> Guia de boas práticas de versionamento — Conventional Commits: https://www.conventionalcommits.org </li>
+
+<li> Atlassian. Git Tutorials & Workflows. </li>
+</ul>
